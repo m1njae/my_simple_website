@@ -39,10 +39,17 @@
   </p>
   
   ### 글 수정 기능
+  - `textbox` 출력
+  <p align='center'>
+      <img width='80%' src=https://user-images.githubusercontent.com/82744423/149668282-668a554b-1e61-49c2-80b6-37d929955637.png>
+  </p>
   
+  - **수정할 내용 입력**
   <p align='center'>
      <img width='80%' src=https://user-images.githubusercontent.com/82744423/149627714-051e788a-979f-4bad-9296-db23f9389a70.png>
   </p>
+  
+  - **제출 클릭 결과**
   
   <p align='center'>
      <img width='80%' src=https://user-images.githubusercontent.com/82744423/149627772-0a1400fa-3e85-448d-8ee6-499180286355.png>
