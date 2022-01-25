@@ -124,7 +124,7 @@ var app = http.createServer(function(request,response){
         var id = post.id;
         var description = post.description;
         fs.writeFile(`data/${id}.txt`,description, 'utf8', function(err){
-          response.writeHead(302, {Location: `/?id=${id}`}); // 3xx으로 시작된 코드는 리다이랙션
+          response.writeHead(302, {Location: `/?id=${id}`}); // 3xx으로 시작된 코드는 redirection
           response.end(); 
         })
       });  
