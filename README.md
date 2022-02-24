@@ -4,7 +4,8 @@
   <img width="75%" src=https://user-images.githubusercontent.com/82744423/149625401-5f9d462d-f5d8-45f2-86cd-a61e50c3a563.png>
 </p>
 <p align='center'>  
-  <a href='https://softsquared.notion.site/22-Basic-Challenge-c3bd288870ea4601b79b203a0aa21c73'>바로가기</a>
+  <a href='https://softsquared.notion.site/22-Basic-Challenge-c3bd288870ea4601b79b203a0aa21c73'>바로가기</a><br>
+  <a href="https://softsquared.notion.site/22-4232d9572e6c4d7eaad1fa4d155177ef">완주 링크</a>
 </p>
 
 ## My simple website
